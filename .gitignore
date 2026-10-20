@@ -1,0 +1,10 @@
+# Runtime state and machine-specific configuration belong outside this repo.
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.local.json
+.local/
+.state/
+TASKS.org
